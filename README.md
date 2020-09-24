@@ -25,4 +25,3 @@ An android app that targets college students and provides a host of features aim
 ![ScreenShot](https://raw.github.com/jimitgandhi/Stud-Buddy/master/Screenshots/10.jpg)
 ![ScreenShot](https://raw.github.com/jimitgandhi/Stud-Buddy/master/Screenshots/11.jpg)
 ![ScreenShot](https://raw.github.com/jimitgandhi/Stud-Buddy/master/Screenshots/12.jpg)
-![ScreenShot](https://raw.github.com/jimitgandhi/Stud-Buddy/master/Screenshots/13.jpg)
