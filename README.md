@@ -11,7 +11,7 @@ An android app that targets college students and provides a host of features aim
 * A speech-to-text converter has been integrated into the app in order to take short notes in the class. The notes are also saved in the database and can be retrieved by navigating through a simple UI.
 * A chat feature along with chatrooms has been built into the app for future wherein the an admin can supervise and distribute important information/content to the students subscribed to a particular chatroom.
 ## Project Demo
-[![View Demo](https://raw.github.com/jimitgandhi/Stud-Buddy/master/Screenshots/demo.jpg)](https://youtu.be/HDdqAD3QqGU){:height="250px" width="325px"}
+[![View Demo](https://raw.github.com/jimitgandhi/Stud-Buddy/master/Screenshots/demo.jpg){:height="250px" width="325px"}](https://youtu.be/HDdqAD3QqGU)
 ## Screenshots
 <p align="center">
   <img src="https://raw.github.com/jimitgandhi/Stud-Buddy/master/Screenshots/1.jpg" width="144" height="256">
