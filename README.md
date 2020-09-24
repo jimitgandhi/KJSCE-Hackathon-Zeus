@@ -13,15 +13,17 @@ An android app that targets college students and provides a host of features aim
 ## Project Demo
 [![View Demo](https://raw.github.com/jimitgandhi/Stud-Buddy/master/Screenshots/demo.jpg)](https://youtu.be/HDdqAD3QqGU)
 ## Screenshots
-![ScreenShot](https://raw.github.com/jimitgandhi/Stud-Buddy/master/Screenshots/1.jpg)
-![ScreenShot](https://raw.github.com/jimitgandhi/Stud-Buddy/master/Screenshots/2.jpg)
-![ScreenShot](https://raw.github.com/jimitgandhi/Stud-Buddy/master/Screenshots/3.jpg)
-![ScreenShot](https://raw.github.com/jimitgandhi/Stud-Buddy/master/Screenshots/4.jpg)
-![ScreenShot](https://raw.github.com/jimitgandhi/Stud-Buddy/master/Screenshots/5.jpg)
-![ScreenShot](https://raw.github.com/jimitgandhi/Stud-Buddy/master/Screenshots/6.jpg)
-![ScreenShot](https://raw.github.com/jimitgandhi/Stud-Buddy/master/Screenshots/7.jpg)
-![ScreenShot](https://raw.github.com/jimitgandhi/Stud-Buddy/master/Screenshots/8.jpg)
-![ScreenShot](https://raw.github.com/jimitgandhi/Stud-Buddy/master/Screenshots/9.jpg)
-![ScreenShot](https://raw.github.com/jimitgandhi/Stud-Buddy/master/Screenshots/10.jpg)
-![ScreenShot](https://raw.github.com/jimitgandhi/Stud-Buddy/master/Screenshots/11.jpg)
-![ScreenShot](https://raw.github.com/jimitgandhi/Stud-Buddy/master/Screenshots/12.jpg)
+<p align="center">
+  <img src="https://raw.github.com/jimitgandhi/Stud-Buddy/master/Screenshots/1.jpg" width="144" height="256">
+  <img src="https://raw.github.com/jimitgandhi/Stud-Buddy/master/Screenshots/2.jpg" width="144" height="256">
+  <img src="https://raw.github.com/jimitgandhi/Stud-Buddy/master/Screenshots/3.jpg" width="144" height="256">
+  <img src="https://raw.github.com/jimitgandhi/Stud-Buddy/master/Screenshots/4.jpg" width="144" height="256">
+  <img src="https://raw.github.com/jimitgandhi/Stud-Buddy/master/Screenshots/5.jpg" width="144" height="256">
+  <img src="https://raw.github.com/jimitgandhi/Stud-Buddy/master/Screenshots/6.jpg" width="144" height="256">
+  <img src="https://raw.github.com/jimitgandhi/Stud-Buddy/master/Screenshots/7.jpg" width="144" height="256">
+  <img src="https://raw.github.com/jimitgandhi/Stud-Buddy/master/Screenshots/8.jpg" width="144" height="256">
+  <img src="https://raw.github.com/jimitgandhi/Stud-Buddy/master/Screenshots/9.jpg" width="144" height="256">
+  <img src="https://raw.github.com/jimitgandhi/Stud-Buddy/master/Screenshots/10.jpg" width="144" height="256">
+  <img src="https://raw.github.com/jimitgandhi/Stud-Buddy/master/Screenshots/11.jpg" width="144" height="256">
+  <img src="https://raw.github.com/jimitgandhi/Stud-Buddy/master/Screenshots/12.jpg" width="144" height="256">
+</p>
